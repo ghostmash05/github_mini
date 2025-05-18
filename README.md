@@ -41,14 +41,6 @@ lib/
 - **Hive** - Lightweight and fast key-value database for offline caching
 - **Shimmer** - Loading animation effects for better user experience
 
-## 📱 Screenshots
-
-<p align="center">
-  <img src="screenshots/profile_screen.png" width="200" />
-  <img src="screenshots/repositories_list.png" width="200" />
-  <img src="screenshots/repository_details.png" width="200" />
-</p>
-
 ## 🚀 Getting Started
 
 ### Prerequisites
