@@ -1,7 +1,7 @@
 # GitHub Mini
 
 <p align="center">
-  <img src="assets/images/logo.png" alt="GitHub Mini Logo" width="200"/>
+  <img src="assets/github_logo.png" alt="GitHub Mini Logo" width="200"/>
 </p>
 
 A clean, user-friendly Flutter application for browsing GitHub profiles, repositories, and more. GitHub Mini provides a streamlined experience for accessing GitHub data on mobile devices with a focus on performance and usability.
